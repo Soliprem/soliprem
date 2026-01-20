@@ -3,7 +3,7 @@
 # Soliprem
 
 > All, everything I understand, I only understand because I love
-
+</div>
 I'm a student, hobby dev, and enthusiast of all things complex, networks, and
 FLOSS.
 
@@ -12,8 +12,6 @@ Currently studying Economics and Econometrics at the University of Bologna.
 Most of what you'll find here is either scripting, tooling, data crunching for
 some light research or some combination of the three. I generally license my
 code under GPLv3, so feel free to yoink.
-
-</div>
 
 
 <div align="center">
